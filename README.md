@@ -1,2 +1,2 @@
 # PHP-ChatBot
- Online ChatBot
+ Simple PHP ChatBot
